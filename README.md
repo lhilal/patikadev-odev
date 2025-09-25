@@ -1,2 +1,0 @@
-# patikadev-odev
-main
